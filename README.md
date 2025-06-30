@@ -11,22 +11,12 @@ Modifies the challenge before it reaches the web player and retrieves the decryp
 
 ---
 <div align="center">
-  <style>
-    p {
-      font-weight: bold;
-    }
-  </style>
   <p>OLD UI </p>
   <img src="imgs/old.png" alt="Old">
 </div>
 
 
 <div align="center">
-  <style>
-    p {
-      font-weight: bold;
-    }
-  </style>
   <p>NEW UI </p>
   <img src="imgs/new.png" alt="New">
 </div>
